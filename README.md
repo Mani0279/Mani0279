@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akula Mani Shanker</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer and Mobile-App developer from India</h3>
 
 - 🔭 I’m currently working on [BidUp_Application,online auction app for students.](https://github.com/Mani092/Bid_up_group)
 
